@@ -1,3 +1,15 @@
 hi bhai
-    bol bhai "hello world";
+  bhai ye hai a = 0;
+  jab tak bhai (a < 50) {
+   a += 1;
+   agar bhai (a % 2 == 0) {
+    bol bhai "andar se bol bhai even ", a;
+    agla dekh bhai;
+   }
+   agar bhai (a == 50) {
+    bas kar bhai;
+   }
+   //bol bhai "andar se bol bhai odd ", a;
+  }
+  bol bhai "done";
 bye bhai
